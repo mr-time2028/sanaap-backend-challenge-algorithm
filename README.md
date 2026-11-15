@@ -14,6 +14,11 @@ of the Sanaap Backend Challenge.
 python -m venv .venv
 ```
 
+## Usage
+```bash
+python main.py
+```
+
 ## Tests
 ```bash
 pytest -v
